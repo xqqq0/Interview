@@ -1,5 +1,3 @@
-# Interview
-目录
 ## 面试题
 *   [【2017年最新】☞ iOS面试题及答案](http://www.cnblogs.com/bossren/p/6401067.html)
 *   [五月面试题](https://knightsj.github.io/2017/06/08/2017%E5%B9%B45%E6%9C%88iOS%E6%8B%9B%E4%BA%BA%E5%BF%83%E5%BE%97%EF%BC%88%E9%99%84%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%89/)
@@ -83,9 +81,9 @@
 
 ## 杂项
 
-*   [zz](https://draveness.me/ao)
-*   [zz](https://www.jianshu.com/p/06de58683f0e)
-
+*   [关联对象 AssociatedObject 完全解析](https://draveness.me/ao)
+*   [@selector()的原理](https://www.jianshu.com/p/06de58683f0e)
+* [关于宏定义中的do-while(0)循环](https://blog.csdn.net/wangduohuai/article/details/52164174)
 ## 部分github实现
 
 [大白健康系统KVO, 错误方法](https://github.com/sunday1990/BayMaxProtector)
