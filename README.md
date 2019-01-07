@@ -12,10 +12,16 @@
 
 *   [iOS 核心动画](https://hit-alibaba.github.io/interview/basic/network/TCP.html)
 *   [OSX 高级编程](http://aba.github.io/)
+## 综合类博客
+* [LeoMobileDeveloper](https://github.com/LeoMobileDeveloper/Blogs)
+* [iOSRunTimeRunLoopExplore](https://github.com/huang303513/iOSRunTimeRunLoopExplore)
+
 
 ## 面试
 * 多线程
-[彻底搞懂OC中GCD导致死锁的原因和解决方案](https://blog.csdn.net/abc649395594/article/details/48017245)
+  * [彻底搞懂OC中GCD导致死锁的原因和解决方案](https://blog.csdn.net/abc649395594/article/details/48017245)
+  * [NSMutableArray 线程安全](https://blog.csdn.net/kongdeqin/article/details/53171189)
+  * SDW的原理可以在在[一套博客](https://github.com/LeoMobileDeveloper/Blogs)中找到 
 *   网络知识 
     [HTTP 的长连接和短连接](http://blog.jobbole.com/104108/) 
     [TCP/IP常见问题总结（一）](https://blog.csdn.net/superxlcr/article/details/51062472) 
@@ -44,7 +50,7 @@
 -[需要解决的问题]()
 
 ## 面试博客
-* [NSMutableArray 线程安全](https://blog.csdn.net/kongdeqin/article/details/53171189)
+* [OS 底层解析weak的实现原理（包含weak对象的初始化，引用，释放的分析）](https://www.jianshu.com/p/13c4fb1cedea)
 * [综合性文章iOSRunTimeRunLoopExplore](https://github.com/huang303513/iOSRunTimeRunLoopExplore)
 * [南峰子的博客](http://southpeak.github.io/)
 *   [Autorelease](http://blog.sunnyxx.com/2014/10/15/behind-autorelease/)
